@@ -14,4 +14,4 @@ in this i am making inventory manegment system using striemlit livrery
 - UI
 
 ## 🚀 How to Run
-[Project 2](https://www.linkedin.com/posts/abdulla-ansari-62910b296_postgresql-sql-python-activity-7415072449714692096-cT-W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+[Project link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_postgresql-sql-python-activity-7415072449714692096-cT-W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
