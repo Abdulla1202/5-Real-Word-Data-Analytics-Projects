@@ -1,3 +1,4 @@
+[Project Link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_sql-dataanalytics-eda-ugcPost-7432315903389687808-Rys9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
 # 📱 Exploratory Data Analysis using SQL on Electronics Dataset
 
 ## 📌 Project Overview
@@ -23,5 +24,5 @@ Performed SQL-based data analysis on an electronics sales dataset to extract bus
 2. Run provided SQL queries
 3. Use Excel for charts if needed
 
-[Project Link]()
+
    
