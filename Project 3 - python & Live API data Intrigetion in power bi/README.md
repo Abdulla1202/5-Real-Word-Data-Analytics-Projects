@@ -1,5 +1,7 @@
 # 📊 Live API Data Integration with Power BI
 
+ [Project Link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_powerbi-python-dataanalytics-activity-7417555009602768896-lNjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+
 ## 📌 Project Overview
 This project demonstrates integration of live API data using Python and visualizing it in Power BI dashboards.
 
@@ -26,4 +28,4 @@ This project demonstrates integration of live API data using Python and visualiz
 2. Load generated CSV into Power BI
 3. Open .pbix file to view dashboard
 
-   [Project Link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_powerbi-python-dataanalytics-activity-7417555009602768896-lNjs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+  
