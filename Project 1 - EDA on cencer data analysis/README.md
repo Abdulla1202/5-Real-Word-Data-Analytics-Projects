@@ -1,5 +1,8 @@
 # 🧠 Exploratory Data Analysis on Global Cancer Data
 
+
+[Projects link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_eda-dataanalytics-python-activity-7413452947654619136-5ViH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
+
 ## 📌 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on global cancer patient data (2015–2024). The objective was to understand trends, patterns, and insights related to cancer cases across different regions and demographics.
 
@@ -28,4 +31,3 @@ This project focuses on performing Exploratory Data Analysis (EDA) on global can
 3. Ensure required libraries are installed
 
 
-[Projects link](https://www.linkedin.com/posts/abdulla-ansari-62910b296_eda-dataanalytics-python-activity-7413452947654619136-5ViH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeQOcEBFlNJZGNY1nwU2TD-gT_TpFFtRuk)
